@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx.base.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx.controls.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx.fxml.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx.graphics.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx.media.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx.swing.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx.web.jar",
+        "c:\\Program Files\\Java\\javafx-sdk-19\\lib\\javafx-swt.jar"
+    ],
+    "cSpell.words": [
+        "Defenseman's",
+        "Defensemen",
+        "Faceoff",
+        "faceoffs"
+    ],
+    "java.jdt.ls.java.home": "C:/Program Files/Java/jdk1.8.0_361",
+    "javadoc-tools.generateJavadoc.isUsingPwsh": false,
+    "javadoc-tools.generateJavadoc.workspaceSourceFolder": "./src/",
+    "javadoc-tools.generateJavadoc.targetFolder": "./javadoc/"
+}

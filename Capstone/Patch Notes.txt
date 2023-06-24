@@ -1,0 +1,6 @@
+v1.1 updates:
+• The title for the dashboard's line chart wasn't changing appropriately and has been updated
+• Minor UI adjustments
+• Edit user screen has been overhauled
+• Updated the stage title to show the program's version
+• Added Javadoc comments to code and generated Javadoc files
